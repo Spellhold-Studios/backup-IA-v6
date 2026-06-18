@@ -17,7 +17,6 @@ Baldur's Gate Trilogy, Tutu, BG:EE, SoD, IWD:EE et EET</h3>
 
 
 **Auteure :** Erephine  
-**Site internet du mod :** <a href="http://www.spellholdstudios.net/ie/infinityanimations">Spellhold Studios</a>  
 **Forum du mod :** <a href="http://www.shsforums.net/forum/594-infinity-animations/">Infinity Animations</a>  
 
 ## 
@@ -827,7 +826,7 @@ Ce composant corrige dans les parties sauvegardées les animations de créatures
 
 #### Remerciements particuliers à :
 
-- L'équipe de <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> pour l'hébergement de ce mod (<a href="http://www.shsforums.net">Forums</a>).
+- L'équipe de <a href="https://www.shsforums.net/">Spellhold Studios</a> pour l'hébergement de ce mod.
 - Assistance originale : <a href="http://www.shsforums.net/user/948-arkenor/">Arkenor</a> et <a href="http://www.shsforums.net/user/4994-sergis/">SergIS</a>.
 - <a href="http://www.shsforums.net/user/10485-sam/">Sam</a> : un énorme merci pour son inestimable contribution à cette mise à jour (librairie *ps_recursive_copy.tpa*, meilleur taux de compression des fichiers bam, mise à jour du patch de l'exécutable, correction de l'animation d'Ellesime aux cheveux blancs...) et pour avoir réécrit complètement l'utilitaire IA Reference Picker.
 - <a href="http://www.shsforums.net/user/14985-argent77/">Argent77</a> : merci pour m'avoir laissé utiliser et adapter sa fonction `WeiDU FIND_FREE_ANIM_SLOT` (libraire *a7_functions.tpa*) pour installer automatiquement de nouveaux slots d'animation dans les jeux EE.
