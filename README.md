@@ -3,7 +3,7 @@
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/GwendolyneFreddy/Infinity-Animations?color=gold)
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20linux&color=informational)
 ![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French&color=limegreen)
-<a href="README-FR.md"><img align="right" src="infinityanimations/documentation/images/fr-flag-32.png" title="Lisez-moi français"></a>
+<a href="README-FR.md"><img align="right" src="infinityanimations/documentation/images/fr-flag-32.png" title="Lisez-moi franÃ§ais"></a>
 
 ![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BG2%3AToB%20%7C%20BGT%20%7C%20Tutu%20%7C%20BG%3AEE%20%7C%20SoD%20%7C%20BG2%3AEE%20%7C%20EET%20%7C%20IWD%3AEE&color=dodgerblue)
 
@@ -18,8 +18,7 @@ Baldur's Gate Trilogy, Tutu, BG:EE, SoD, IWD:EE and EET<h3>
 
 
 **Author:** Erephine  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/infinityanimations">Spellhold Studios</a>  
-**Mod forum:** <a href="http://www.shsforums.net/forum/594-infinity-animations/">Infinity Animations</a>  
+ **Mod forum:** <a href="http://www.shsforums.net/forum/594-infinity-animations/">Infinity Animations</a>  
 
 ## 
 
@@ -829,7 +828,7 @@ This component patches any changed creature animation in saved games to prevent 
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - Original assistance: <a href="http://www.shsforums.net/user/948-arkenor/">Arkenor</a> and <a href="http://www.shsforums.net/user/4994-sergis/">SergIS</a>.
 - <a href="http://www.shsforums.net/user/10485-sam/">Sam</a>: Huge thanks for his invaluable contribution to this update (*ps_recursive_copy.tpa* library, better bam compressing process, executable patch update, Ellesime white haired fix...) and for having completely rewritten IA Reference Picker tool.
 - <a href="http://www.shsforums.net/user/14985-argent77/">Argent77</a>: thanks for letting me use and adapt his `FIND_FREE_ANIM_SLOT` WeiDU function (*a7_functions.tpa* library) to automatically install new animation slots in EE games.
